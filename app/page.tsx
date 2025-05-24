@@ -13,7 +13,7 @@ async function getData() {
     const DB_URL = CONFIG.useFirebase.config.host + "/.json";
     res = await fetch(DB_URL, { cache: "no-store" });
   } else {
-    const JSON_URL = CONFIG.link + "/data.json";
+    const JSON_URL = "/data.json";
     res = await fetch(JSON_URL, { cache: "no-store" });
   }
 
