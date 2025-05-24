@@ -1,0 +1,272 @@
+{
+  "main": {
+    "name": "Utkarsh Nautiyal",
+    "shortDesc": "Final-year CS student focused on real-world machine learning systems, cloud engineering, and full-stack development. Experienced in delivering scalable ML solutions and recognized in national-level coding contests and hackathons.",
+    "titles": [
+     "build ML Systems",
+      "engineer Cloud Solutions",
+      "develop Full-Stack Apps",
+      "mentor Tech Communities"
+    ],
+    "heroImage": "/utkarsh.jpg",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/python--v1.png",
+      "https://img.icons8.com/color/144/c-plus-plus-logo.png",
+      "https://img.icons8.com/color/144/tensorflow.png",
+      "https://img.icons8.com/color/144/amazon-web-services.png"
+    ],
+    "blogUrl": ""
+  },
+  "about": {
+    "aboutImage": "https://pg56714-log.vercel.app/avatar.svg",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "title": "B.Tech in Computer Science & Engineering",
+    "about": "Final-year CS student focused on real-world machine learning systems, cloud engineering, and full-stack development. Experienced in delivering scalable ML solutions and recognized in national-level coding contests and hackathons.",
+    "resumeUrl": "https://drive.google.com/file/d/1-yFd_XImzao7rYt5g-Fjnr4C1E9NqSUH/view?usp=sharing",
+    "callUrl": ""
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/utkarshnautiyal"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/utcrxsh"
+    },
+    {
+      "icon": "FaKaggle",
+      "link": "https://www.kaggle.com/utkarsh321"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/144/python--v1.png",
+      "category": "Programming"
+    },
+    {
+      "name": "C++",
+      "image": "https://img.icons8.com/color/144/c-plus-plus-logo.png",
+      "category": "Programming"
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/javascript--v1.png",
+      "category": "Programming"
+    },
+    {
+      "name": "React",
+      "image": "https://img.icons8.com/color/144/react-native.png",
+      "category": "Web"
+    },
+    {
+      "name": "Node.js",
+      "image": "https://img.icons8.com/fluency/144/node-js.png",
+      "category": "Web"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "https://img.icons8.com/color/144/bootstrap.png",
+      "category": "Web"
+    },
+    {
+      "name": "Express",
+      "image": "https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png",
+      "category": "Web"
+    },
+    {
+      "name": "FastAPI",
+      "image": "https://icon.icepanel.io/Technology/svg/FastAPI.svg",
+      "category": "Web"
+    },
+    {
+      "name": "TensorFlow",
+      "image": "https://img.icons8.com/color/144/tensorflow.png",
+      "category": "ML/AI"
+    },
+    {
+      "name": "PyTorch",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg",
+      "category": "ML/AI"
+    },
+    {
+      "name": "Scikit-learn",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg",
+      "category": "ML/AI"
+    },
+    {
+      "name": "NLP",
+      "image": "https://img.icons8.com/color/144/artificial-intelligence.png",
+      "category": "ML/AI"
+    },
+    {
+      "name": "OpenCV",
+      "image": "https://img.icons8.com/color/144/opencv.png",
+      "category": "ML/AI"
+    },
+    {
+      "name": "LangChain",
+      "image": "https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/dark/langchain.png",
+      "category": "ML/AI"
+    },
+    {
+      "name": "HuggingFace",
+      "image": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg",
+      "category": "ML/AI"
+    },
+    {
+      "name": "Numpy",
+      "image": "https://img.icons8.com/color/144/numpy.png",
+      "category": "ML/AI"
+    },
+    {
+      "name": "Pandas",
+      "image": "https://img.icons8.com/color/144/pandas.png",
+      "category": "ML/AI"
+    },
+    {
+      "name": "AWS",
+      "image": "https://img.icons8.com/color/144/amazon-web-services.png",
+      "category": "Tools"
+    },
+    {
+      "name": "GCP",
+      "image": "https://img.icons8.com/color/144/google-cloud.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Docker",
+      "image": "https://img.icons8.com/color/144/docker.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Kubernetes",
+      "image": "https://img.icons8.com/color/144/kubernetes.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Linux",
+      "image": "https://img.icons8.com/color/144/linux.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Git",
+      "image": "https://img.icons8.com/color/144/git.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Kaggle",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Jupyter Notebooks",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg",
+      "category": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoAssign – Automated Assignment Checker",
+      "image": "/autoassign.png",
+      "desc": "Scalable grading system using Sentence-BERT for semantic scoring and MinHash+LSH for hybrid plagiarism detection. Achieved 92% accuracy and reduced manual grading time by 85%. Built with Flask and Docker.",
+      "summary": "Automated assignment grading tool leveraging ML for semantic scoring and plagiarism detection, streamlining the grading process.",
+      "techstack": "Sentence-BERT, MinHash, LSH, Flask, Docker",
+      "category": "AI/ML",
+      "links": {
+        "visit": "",
+        "code": "https://github.com/utcrxsh/autoassign",
+        "video": ""
+      }
+    },
+    {
+      "name": "Quantum Antivirus",
+      "image": "/antivirus.png",
+      "desc": "Cross-platform antivirus app combining ML (XGBoost/LightGBM) and quantum feature reduction using QUBO. Achieved 84% malware detection accuracy with a 30% performance boost. Built with Flutter and FastAPI.",
+      "summary": "AI-powered antivirus application utilizing quantum feature reduction for faster and more accurate malware detection.",
+      "techstack": "QUBO, XGBoost, LightGBM, Flutter, FastAPI",
+      "category": "AI/ML",
+      "links": {
+        "visit": "",
+        "code": "https://github.com/utcrxsh/quantum_antivirus",
+        "video": ""
+      }
+    },
+    {
+      "name": "Fruit Quality Predictor",
+      "image": "/fruit.png",
+      "desc": "PyTorch model classifying fruit quality into 5 categories using fine-tuned ResNet-50 with attention layers. Achieved 86% accuracy and deployed using ONNX for edge devices.",
+      "summary": "Deep learning model for classifying fruit quality, optimized for edge deployment and real-time use.",
+      "techstack": "PyTorch, ResNet, ONNX, Computer Vision",
+      "category": "AI/ML",
+      "links": {
+        "visit": "",
+        "code": "https://www.kaggle.com/code/utkarsh321/apple-multiclass-classsification",
+        "video": ""
+      }
+    },
+    {
+      "name": "Trendbox",
+      "desc": "A React-based clothing fashion store. Modern e-commerce platform for clothing, built with React and Node.js. Features product browsing, cart, and checkout.",
+      "summary": "Modern e-commerce web app for fashion, offering seamless product browsing and shopping experience.",
+      "techstack": "React, Node.js, CSS, HTML",
+      "category": "Web Dev",
+      "image": "/trendbox.jpeg",
+      "links": {
+        "visit": "",
+        "code": "https://github.com/utcrxsh/Trendbox",
+        "video": ""
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "Graphic Era Hill University, Dehradun",
+      "duration": "2022 - 2026",
+      "degree": "B.Tech in Computer Science & Engineering",
+      "cgpa": "8.3/10",
+      "desc": [
+        "Studied core CS subjects including Data Structures, Algorithms, Operating Systems, Computer Networks, and Software Engineering.",
+        "Specialized in Machine Learning, Deep Learning, and Cloud Computing.",
+        "Applied theory in real-world projects under faculty mentorship, contributed to research papers, and built scalable AI solutions using Python, PyTorch, TensorFlow, and cloud platforms like AWS and GCP."
+      ]
+    }
+  ],
+  "awards": [
+    "Ranked in Top 1% out of 50,000+ participants in Coding Ninjas World Cup 2023.",
+    "Secured 3rd Rank out of 400+ participants in Codezilla Coding Competition 2022, awarded 5000 cash prize.",
+    "Achieved 3rd Rank in Choose and Code Competition 2023, a DSA-based contest.",
+    "Secured 1st Rank in technical and behavioral rounds of Mock Interview Competition (Aarambh) 2024 organized by Codev Club."
+  ],
+  "certifications": [
+    "Deep Learning Specialization by Andrew Ng",
+    "Machine Learning Specialization by Andrew Ng",
+    "Machine Learning Operations (MLOps) by Google Cloud",
+    "The Complete Full-Stack Web Development Bootcamp, Udemy",
+    "AWS Cloud Practitioner Essentials by Amazon Web Services"
+  ],
+  "leadership": [
+    "Led hands-on workshops in machine learning and cloud computing at Google Developer Club, empowering 100+ students to build and deploy AI models on AWS and GCP.",
+    "Core Member of Codevichar, mentoring peers in competitive programming and driving participation in coding contests, increasing club participation by 40%.",
+    "Finalist in a 24-hour Inter-College hackathon, developing an end-to-end AI-powered solution under high-pressure constraints, achieving Top 5 ranking out of 300+ teams."
+  ],
+  "experiences": [
+    {
+      "company": "Graphic Era Hill University",
+      "position": "Student Researcher",
+      "duration": "2023 - Present",
+      "desc": [
+        "Worked under the mentorship of our ML professor to build real-world applications using machine learning.",
+        "Contributed to research papers on applied ML topics, focusing on practical deployment and optimization of models."
+      ]
+    }, {
+      "company": "Google Developer Club",
+      "position": "Workshop Leader",
+      "duration": "2023 - Present",
+      "desc": [
+        "Led hands-on workshops in machine learning and cloud computing, empowering 100+ students to build and deploy Applications on AWS and GCP."
+      ]
+    }
+  ]
+}
