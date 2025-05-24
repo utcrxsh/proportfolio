@@ -13,7 +13,14 @@ async function getData() {
     const DB_URL = CONFIG.useFirebase.config.host + "/.json";
     res = await fetch(DB_URL, { cache: "no-store" });
   } else {
-    const JSON_URL = "/data.json";
+    const isServer = typeof window === "undefined";
+    let JSON_URL = "/data.json";
+    if (isServer) {
+      const base =
+        process.env.NEXT_PUBLIC_SITE_URL ||
+        (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "http://localhost:3000");
+      JSON_URL = base + "/data.json";
+    }
     res = await fetch(JSON_URL, { cache: "no-store" });
   }
 
