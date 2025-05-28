@@ -9,9 +9,7 @@ interface Props {
 }
 
 const Projects = ({ projectsData }: Props) => {
-  const [projects, setProjects] = useState(
-    [...projectsData].reverse() as project[]
-  );
+  const [projects, setProjects] = useState(projectsData as project[]);
 
   const uniqueCategories = Array.from(new Set(projects.map((s) => s.category)));
   const categories = ['All'];

@@ -1,9 +1,11 @@
 "use client";
+import React from "react";
 import { data } from "@/types/main";
 import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Skills from "@/components/skills/Skills";
 import Projects from "@/components/projects/Projects";
+import Certifications from "@/components/certifications/Certifications";
 import Socials from "@/components/Socials";
 import Experiences from "@/components/experiences/Experiences";
 // import Contact from "@/components/Contact";
@@ -25,6 +27,7 @@ const HomePage = ({ data }: Props) => {
       <Skills skillData={data.skills} />
       
       <Projects projectsData={data.projects} />
+      <Certifications certificationsData={data.certifications} />
 
       <Experiences
         experienceData={data.experiences}

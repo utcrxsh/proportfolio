@@ -57,6 +57,13 @@ type social = {
   link: string;
 };
 
+type certification = {
+  name: string;
+  issuer: string;
+  date: string;
+  url?: string;
+};
+
 type data = {
   main: main;
   about: about;
@@ -65,6 +72,7 @@ type data = {
   experiences: experience[];
   educations: education[];
   socials: social[];
+  certifications: certification[];
 };
 
 export type {
@@ -76,4 +84,5 @@ export type {
   experience,
   education,
   social,
+  certification,
 };

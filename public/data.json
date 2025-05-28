@@ -35,8 +35,8 @@
       "link": "https://github.com/utcrxsh"
     },
     {
-      "icon": "FaKaggle",
-      "link": "https://www.kaggle.com/utkarsh321"
+      "icon": "FaCode",
+      "link": "https://leetcode.com/utkarshnautiyal"
     }
   ],
   "skills": [
@@ -168,6 +168,19 @@
   ],
   "projects": [
     {
+      "name": "CreditAdvisor – Credit Card Assistant",
+      "image": "/creditadvisor.png",
+      "desc": "AI-powered assistant for Indian credit cards, using LangChain and FAISS for RAG-based semantic search, with Together AI's Mistral-7B for natural language responses. Supports card comparisons, recommendations, and detailed queries with 95% query accuracy.",
+      "summary": "Conversational AI tool for personalized credit card recommendations and comparisons, streamlining card selection for users.",
+      "techstack": "LangChain, FAISS, Together AI (Mistral-7B), Streamlit, Flask, Pandas, Sentence-Transformers",
+      "category": "AI/ML",
+      "links": {
+        "visit": "https://creditadvisor.streamlit.app",
+        "code": "https://github.com/utcrxsh/CardAdvisor",
+        "video": ""
+      }
+    },
+    {
       "name": "AutoAssign – Automated Assignment Checker",
       "image": "/autoassign.png",
       "desc": "Scalable grading system using Sentence-BERT for semantic scoring and MinHash+LSH for hybrid plagiarism detection. Achieved 92% accuracy and reduced manual grading time by 85%. Built with Flask and Docker.",
@@ -240,11 +253,36 @@
     "Secured 1st Rank in technical and behavioral rounds of Mock Interview Competition (Aarambh) 2024 organized by Codev Club."
   ],
   "certifications": [
-    "Deep Learning Specialization by Andrew Ng",
-    "Machine Learning Specialization by Andrew Ng",
-    "Machine Learning Operations (MLOps) by Google Cloud",
-    "The Complete Full-Stack Web Development Bootcamp, Udemy",
-    "AWS Cloud Practitioner Essentials by Amazon Web Services"
+    {
+      "name": "Machine Learning Specialization",
+      "issuer": "Coursera",
+      "date": "2025",
+      "url": "https://www.coursera.org/account/accomplishments/verify/AOT9WC3CS29M"
+    },
+    {
+      "name": "Deep Learning Mastery",
+      "issuer": "Udemy",
+      "date": "2025",
+      "url": "https://www.udemy.com/certificate/UC-240ea08e-88d7-46ac-87ea-c4dd5fbf9ba9/"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "issuer": "Microsoft",
+      "date": "2024",
+      "url": "https://learn.microsoft.com/en-in/users/utkarshnautiyal-3850/credentials/dcab45df065eebc9"
+    },
+    {
+      "name": "The Complete Full-Stack Web Development Bootcamp",
+      "issuer": "Udemy",
+      "date": "2024"
+      
+    },
+    {
+      "name": "AWS Cloud Practitioner Essentials",
+      "issuer": "Amazon Web Services",
+      "date": "2023"
+ 
+    }
   ],
   "leadership": [
     "Led hands-on workshops in machine learning and cloud computing at Google Developer Club, empowering 100+ students to build and deploy AI models on AWS and GCP.",
